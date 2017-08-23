@@ -1,0 +1,8 @@
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

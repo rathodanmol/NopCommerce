@@ -1,0 +1,12 @@
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Content\styles.css
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Views\Configure.cshtml
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Description.txt
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\web.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\logo.jpg
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csproj.App.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csprojResolveAssemblyReference.cache

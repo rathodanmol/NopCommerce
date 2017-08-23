@@ -1,0 +1,11 @@
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\Configure.cshtml
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.App.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache

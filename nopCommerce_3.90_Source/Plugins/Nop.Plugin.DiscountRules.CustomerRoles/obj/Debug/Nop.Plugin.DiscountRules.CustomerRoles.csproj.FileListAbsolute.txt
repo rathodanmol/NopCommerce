@@ -1,0 +1,11 @@
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csproj.App.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb

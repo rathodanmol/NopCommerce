@@ -1,0 +1,11 @@
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\samipmodi\Desktop\Anmol\ThemeDemo\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

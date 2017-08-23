@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=DESKTOP-5HV8HFV\SQLEXPRESS2016;Initial Catalog=DemoData;Integrated Security=False;Persist Security Info=False;User ID=sevenbits;Password=creative2000
